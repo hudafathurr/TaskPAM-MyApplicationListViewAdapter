@@ -1,0 +1,2 @@
+# TaskPAM-MyApplicationListViewAdapter
+ 
